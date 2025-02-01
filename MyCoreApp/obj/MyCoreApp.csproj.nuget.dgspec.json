@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ashwinshaji/Projects/MyCoreApp/MyCoreApp/MyCoreApp.csproj": {}
+    "/Users/ashwinshaji/Downloads/Project/DevOps/MyCoreApp/MyCoreApp/MyCoreApp.csproj": {}
   },
   "projects": {
-    "/Users/ashwinshaji/Projects/MyCoreApp/MyCoreApp/MyCoreApp.csproj": {
+    "/Users/ashwinshaji/Downloads/Project/DevOps/MyCoreApp/MyCoreApp/MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ashwinshaji/Projects/MyCoreApp/MyCoreApp/MyCoreApp.csproj",
+        "projectUniqueName": "/Users/ashwinshaji/Downloads/Project/DevOps/MyCoreApp/MyCoreApp/MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "/Users/ashwinshaji/Projects/MyCoreApp/MyCoreApp/MyCoreApp.csproj",
+        "projectPath": "/Users/ashwinshaji/Downloads/Project/DevOps/MyCoreApp/MyCoreApp/MyCoreApp.csproj",
         "packagesPath": "/Users/ashwinshaji/.nuget/packages/",
-        "outputPath": "/Users/ashwinshaji/Projects/MyCoreApp/MyCoreApp/obj/",
+        "outputPath": "/Users/ashwinshaji/Downloads/Project/DevOps/MyCoreApp/MyCoreApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ashwinshaji/.nuget/NuGet/NuGet.Config"
